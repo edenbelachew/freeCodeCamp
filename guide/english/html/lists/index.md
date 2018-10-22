@@ -34,9 +34,9 @@ An unordered list is written as
 
 ```HTML
 <ul>
-  <li>Macintosh</li>
-  <li>Fuji</li>
-  <li>Gala</li>
+  <li>Addis Ababa, Ethiopia</li>
+  <li>Canberra, Australia</li>
+  <li>Paris, France</li>
 </ul>
 ```
 and is displayed as:
